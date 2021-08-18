@@ -1,5 +1,6 @@
 - 東京からIターンで島根県西部にきたエンジニアです。
 - teratailでは「JasperReports」タグで１位だったりします。このタグだけ頑張って質問に答えようとしています。
+- ガンダムで好きなMSはガルスJです。
 
 <!---
 ababaSigrun/ababaSigrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
