@@ -25,6 +25,17 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ababaSigrun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
+----
+## 転職ドラフトに参加した結果！！！
+
+```mermaid
+ graph TD;
+   転職ドラフト-->参加
+   参加-->指名なし
+   指名なし-->転職ドラフト
+  
+
+```
 <!---
 ababaSigrun/ababaSigrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
