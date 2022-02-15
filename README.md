@@ -15,6 +15,14 @@
 - ガンダムで好きなMSはガルスJです。
 - ジオンのモビルスーツすき。モノアイが特に良い。
 
+----
+
+# Githubでの活動内容
+**[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ababaSigrun
+)](https://github.com/anuraghazra/github-readme-stats)**
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ababaSigrun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
