@@ -45,3 +45,8 @@
 ababaSigrun/ababaSigrun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+---
+
+やること
+- Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
+- TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html
