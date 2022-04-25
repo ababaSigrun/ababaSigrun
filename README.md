@@ -50,3 +50,10 @@ You can click the Preview link to take a look at your changes.
 やること
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
 - TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html
+
+---
+読む本
+- アジャイルサムライ（45p～
+- Git実践入門
+- リーダブルコード
+
