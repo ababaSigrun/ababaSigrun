@@ -48,6 +48,10 @@ You can click the Preview link to take a look at your changes.
 ---
 
 やること
+- node.js
+- kotlin(Android)
+---
+やること（優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
 - TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html -> 第一回読んだ。
 
