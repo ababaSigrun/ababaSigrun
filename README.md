@@ -55,6 +55,7 @@ You can click the Preview link to take a look at your changes.
 やること（優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
 - TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html -> 第一回読んだ。
+- GASでTwitterを自動でつぶやく奴　https://taracomom.com/gas-twitter-bot/
 
 ---
 読む本
