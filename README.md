@@ -12,7 +12,7 @@
 
 ---- 
 
-- ガンダムで好きなMSはガルスJです。
+- <b>ガンダムで好きなMSはガルスJです。</b>
 - ジオンのモビルスーツすき。モノアイが特に良い。
 
 ----
@@ -49,13 +49,13 @@ You can click the Preview link to take a look at your changes.
 
 やること（優先度高)
 - node.js -> https://gihyo.jp/dev/serial/01/nodejs ->　第一回を読んだ。次は見ながら環境構築になる。
-- https://qiita.com/shti_f/items/b4b5d830672d908eff4e
 - kotlin(Android)
 ---
 やること（優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
-- TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html -> 第一回読んだ。
+- TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html -> 第一回読んで実施した。
 - GASでTwitterを自動でつぶやく奴　https://taracomom.com/gas-twitter-bot/
+- node.js をherokuにUp　https://qiita.com/shti_f/items/b4b5d830672d908eff4e
 
 ---
 読む本
