@@ -50,6 +50,7 @@ You can click the Preview link to take a look at your changes.
 やること（優先度高)
 - node.js -> https://gihyo.jp/dev/serial/01/nodejs ->　第一回を読んだ。次は見ながら環境構築になる。
 - kotlin(Android)
+- 家で作業ができるように環境構築
 ---
 やること（優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
