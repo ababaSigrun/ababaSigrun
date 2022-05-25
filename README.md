@@ -62,5 +62,5 @@ You can click the Preview link to take a look at your changes.
 読む本
 - アジャイルサムライ（45p～
 - Git実践入門
-- リーダブルコード(54p～
+- リーダブルコード(70p～
 
