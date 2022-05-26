@@ -48,7 +48,7 @@ You can click the Preview link to take a look at your changes.
 ---
 
 やること（優先度高)
-- node.js -> https://gihyo.jp/dev/serial/01/nodejs ->　第1回を実施した、次は第2回
+- node.js -> https://gihyo.jp/dev/serial/01/nodejs ->　第2回を実施した、次は第3回
 - kotlin(Android)
 - 家で作業ができるように環境構築
 ---
