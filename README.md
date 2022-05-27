@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 
 
 （優先度高)
-- node.js ->https://zenn.dev/wkb/books/node-tutorial ->こちらに変更。
+- node.js ->https://zenn.dev/wkb/books/node-tutorial ->chap9まで。
 - kotlin(Android)
 - 家で作業ができるように環境構築
 ---
