@@ -46,13 +46,16 @@ ababaSigrun/ababaSigrun is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 ---
+## TODO
 
-やること（優先度高)
+
+（優先度高)
 - node.js -> https://gihyo.jp/dev/serial/01/nodejs ->　第2回を実施した、次は第3回
+          ->https://zenn.dev/wkb/books/node-tutorial ->こちらに変更。
 - kotlin(Android)
 - 家で作業ができるように環境構築
 ---
-やること（優先度低）
+（優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
 - TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html 
 - GASでTwitterを自動でつぶやく奴　https://taracomom.com/gas-twitter-bot/
