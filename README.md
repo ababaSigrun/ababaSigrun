@@ -27,16 +27,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ababaSigrun&theme=onedark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
-----
-## 転職ドラフトに参加した結果！！！
-
-```mermaid
- graph TD;
-   転職ドラフト-->参加
-   参加-->指名なし
-   指名なし-->参加回数+1
-   参加回数+1-->転職ドラフト
-  
 
 ```
 <!---
@@ -62,5 +52,5 @@ You can click the Preview link to take a look at your changes.
 読む本
 - アジャイルサムライ（45p～
 - Git実践入門
-- リーダブルコード(90p?～
+- リーダブルコード(100P～
 
