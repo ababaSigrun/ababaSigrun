@@ -42,6 +42,7 @@
 - TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html 
 - GASでTwitterを自動でつぶやく奴　https://taracomom.com/gas-twitter-bot/
 - node.js をherokuにUp　https://qiita.com/shti_f/items/b4b5d830672d908eff4e
+- https://www.solidjs.com/
 
 ---
 読む本
