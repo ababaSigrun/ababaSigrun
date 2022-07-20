@@ -35,7 +35,7 @@
 
 
 （優先度高)
-- node.js ->https://zenn.dev/wkb/books/node-tutorial ->chap13まで。
+- node.js ->https://zenn.dev/wkb/books/node-tutorial ->chap14まで。
 - kotlin(Android)
 - 家で作業ができるように環境構築 -> 作業完了
 ---
