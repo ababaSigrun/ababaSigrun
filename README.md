@@ -35,21 +35,22 @@
 
 
 （優先度高)
-- node.js ->https://zenn.dev/wkb/books/node-tutorial ->chap14まで。
-- kotlin(Android)
+
 - 家で作業ができるように環境構築 -> 作業完了
+- TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html
+- なんか作る。
 ---
 （優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
-- TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html 
 - GASでTwitterを自動でつぶやく奴　https://taracomom.com/gas-twitter-bot/
 - node.js をherokuにUp　https://qiita.com/shti_f/items/b4b5d830672d908eff4e
 - https://www.solidjs.com/
-
+- node.js ->https://zenn.dev/wkb/books/node-tutorial ->chap14まで。
+- kotlin(Android)
 ---
 読む本
 - Git実践入門
-- 3分間ネットワーク基礎(14回/45回)
+- 3分間ネットワーク基礎(1６回/45回)
 
 ---
 
