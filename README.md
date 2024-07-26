@@ -39,6 +39,7 @@
 - 家で作業ができるように環境構築 -> 作業完了
 - TypeScript -> https://atmarkit.itmedia.co.jp/ait/subtop/features/dotnet/typescript_index.html
 - なんか作る。文字列置換でJava上でapendした奴を生SQLに戻すとか欲しいな、
+- progaku様に入ったので何かしたいなぁと思う。
 ---
 （優先度低）
 - Vue.js -> 昔作ったチュートリアルをいい加減完成させること。
